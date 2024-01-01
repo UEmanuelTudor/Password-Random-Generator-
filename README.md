@@ -1,27 +1,25 @@
-# Pwg
+# Password Generator App 🎯🔐
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
+Welcome to the Password Generator App, a simple Angular application that effortlessly creates random passwords.
 
-## Development server
+## Features 🌟
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- **Easy-to-Use Interface:** Intuitive design for a user-friendly experience.
+- **Customizable Length:** Choose the number of characters for the password.
+- **Character Options:** Select whether the password should include letters, numbers, and symbols.
+- **Combination Choices:** Opt for letters only, numbers only, symbols only, or any combination.
+- **Generate Button:** One-click generation for instant password creation.
 
-## Code scaffolding
+## How to Use 🚀
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. **Set Password Length:** Use the slider to choose the desired length.
+2. **Select Character Options:** Check the boxes for letters, numbers, and symbols.
+3. **Generate Password:** Click the "Generate" button to receive a randomly generated password.
 
-## Build
+## Get Started 🚀
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Experience the convenience of creating secure passwords with the Password Generator App. Try it now!
 
-## Running unit tests
+[Launch App](https://random-password-generato-ce9ac.web.app/) 🚀🔗
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Enjoy generating secure passwords effortlessly with the Password Generator App! 🔐✨
